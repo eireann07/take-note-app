@@ -1,5 +1,5 @@
 # Take Note App
-This is a Google Keep clone called Take Note. Currently, I've built out the front-end but plan on adding a back-end to store notes
+*Google Keep clone called Take Note where users can input a note to display on a bulletin board. Currently, I've built out the front-end but plan on adding a back-end to store notes*
 - Front-end: React
 - Back-end: IN-PROGRESS - will be Node/Express
 - Database: IN-PROGRESS - will be Mongo DB

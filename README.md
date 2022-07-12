@@ -1,4 +1,4 @@
-# take-note-app
+# Take Note App
 This is a Google Keep clone called Take Note. Currently, I've built out the front-end but plan on adding a back-end to store notes
 - Front-end: React
 - Back-end: IN-PROGRESS - will be Node/Express
